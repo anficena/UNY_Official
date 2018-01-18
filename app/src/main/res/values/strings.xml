@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UNY Official</string>
+    <string name="title_news">TITLE NEWS</string>
+    <string name="desc_news">description</string>
+    <string name="transition">transition</string>
+    <string name="creator_news">crete by</string>
+
+    <string name="date">10 Oct</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="beranda">Hello home</string>
+    <string name="berita">Hello berita</string>
+    <string name="pengumuman">Hello pengumuman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="place_holder">ImageView</string>
+    <string name="blog_title">blog_titile</string>
+    <string name="blog_content">blog_content</string>
+    <string name="read_more">read_more</string>
+    <string name="pmb">Penerimaan Mahasiswa</string>
+    <string name="prestasi">Prestasi Mahasiswa</string>
+    <string name="detail_pmb">Selengkapnya</string>
+    <string name="detail_presma">Selengkapnya</string>
+    <string name="detail_journal">Selengkapnya</string>
+    <string name="detail_karir">Selengkapnya</string>
+    <string name="detail_alumni">Selengkapnya</string>
+    <string name="detail_official">Selengkapnya</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>

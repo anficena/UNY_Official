@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="id.ac.uny.unyofficial">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splash_screen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="orientation|screenSize">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".indeks_pengumuman.IndexPengumuman">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".indeks_pengumuman.DetailPengumuman" />
+        <activity android:name=".IndexBerita">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".HomeActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity android:name=".indeks_berita.DetailBerita" />
+        <!--<activity android:name=".beranda_official.pmb_mahasiswa" />-->
+        <!--<activity android:name=".beranda_official.presma_mahasiswa" />-->
+        <activity
+            android:name=".home_page.pmb_mahasiswa"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".home_page.presma_mahasiswa"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".home_page.journal_uny"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".home_page.pengembangan_karir"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".home_page.informasi_alumni"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".home_page.contact_official"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

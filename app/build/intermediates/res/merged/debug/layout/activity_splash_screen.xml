@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#fff">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="150dp">
+        <ImageView
+            android:id="@+id/imageLogo"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="20dp"
+            android:layout_weight="1.26"
+            android:src="@drawable/ic_logo" />
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="UNY OFFICIAL"
+            android:textColor="#dfdfdf"
+            android:textStyle="bold"
+            android:textSize="@dimen/slide_title"
+            android:layout_marginBottom="160dp"
+            android:layout_gravity="center"/>
+        <TextView
+            android:id="@+id/txtTitle1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Powered By : Luthfi Rohmatulloh_PTI_2015"
+            android:textColor="#dfdfdf"
+            android:textSize="15dp"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+</LinearLayout>

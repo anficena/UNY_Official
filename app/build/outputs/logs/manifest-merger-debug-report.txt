@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:7:5-68:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\X550Z FX\.android\build-cache\29b654715786a8c5669b8d32526eeb8122e93935\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4a5d6635cc3ded98397dd71bc9eb25f10d4df280\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\86a54435d22fd355f12ddac085c1104918879a42\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\5a526056625d88a1591ef6ce8f11cbe93842969c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\7075ab8c33f64260d3e1dfda2e265af408546ae6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9e45b32941ea53aacf3bc3aec525e5f3f37a096c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\6fbd6cb088c5790d8cb71ee42ee99aca9819a294\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9c9dc6c6c57100a072a16b31dba91e14c707cfdf\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\1586d887408b7515aba4577bc87ae0f449936494\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\02d72a98bf878738679f2d3ff880e1101fe3864c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4dce1ad563595494d965e52f4cdfa788b5a7f223\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c579f1a1147e92d61191b498d8739fc624b67b6d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c996ef6108df44635cce77385edeb21b10417dcc\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:13:9-40
+activity#id.ac.uny.unyofficial.splash_screen
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:15:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:20:27-74
+activity#id.ac.uny.unyofficial.MainActivity
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:configChanges
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:26:13-59
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:24:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:27:13-29:49
+	android:value
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:28:17-63
+activity#id.ac.uny.unyofficial.indeks_pengumuman.IndexPengumuman
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:31:19-68
+activity#id.ac.uny.unyofficial.indeks_pengumuman.DetailPengumuman
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:36:9-72
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:36:19-69
+activity#id.ac.uny.unyofficial.IndexBerita
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:37:19-46
+activity#id.ac.uny.unyofficial.HomeActivity
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:42:19-47
+activity#id.ac.uny.unyofficial.indeks_berita.DetailBerita
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:47:9-64
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:47:19-61
+activity#id.ac.uny.unyofficial.home_page.pmb_mahasiswa
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:50:9-52:58
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:52:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:51:13-52
+activity#id.ac.uny.unyofficial.home_page.presma_mahasiswa
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:53:9-55:58
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:54:13-55
+activity#id.ac.uny.unyofficial.home_page.journal_uny
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:56:9-58:58
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:57:13-50
+activity#id.ac.uny.unyofficial.home_page.pengembangan_karir
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:59:9-61:58
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:61:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:60:13-57
+activity#id.ac.uny.unyofficial.home_page.informasi_alumni
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:62:9-64:58
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:64:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:63:13-55
+activity#id.ac.uny.unyofficial.home_page.contact_official
+ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:65:9-67:68
+	android:theme
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:67:13-56
+	android:name
+		ADDED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml:66:13-55
+uses-sdk
+INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\X550Z FX\.android\build-cache\29b654715786a8c5669b8d32526eeb8122e93935\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4a5d6635cc3ded98397dd71bc9eb25f10d4df280\output\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.7.0] C:\Users\X550Z FX\.android\build-cache\c6545dacf07e19346a738d1f15651fb2bae34535\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.0] C:\Users\X550Z FX\.android\build-cache\46b1012e50b74f518800cd90b5934614a05e384a\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.roughike:bottom-bar:2.3.1] C:\Users\X550Z FX\.android\build-cache\bf7abf36864d0a078f5c1c2d86c1359ad1ab420f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\86a54435d22fd355f12ddac085c1104918879a42\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\5a526056625d88a1591ef6ce8f11cbe93842969c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\7075ab8c33f64260d3e1dfda2e265af408546ae6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9e45b32941ea53aacf3bc3aec525e5f3f37a096c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\23ad7faf08fb2f44b039f26762e1ccf211b3b9b3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\6fbd6cb088c5790d8cb71ee42ee99aca9819a294\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9c9dc6c6c57100a072a16b31dba91e14c707cfdf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\1586d887408b7515aba4577bc87ae0f449936494\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\02d72a98bf878738679f2d3ff880e1101fe3864c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4dce1ad563595494d965e52f4cdfa788b5a7f223\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c579f1a1147e92d61191b498d8739fc624b67b6d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c996ef6108df44635cce77385edeb21b10417dcc\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\86a54435d22fd355f12ddac085c1104918879a42\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProjectPI\UNYOfficial\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4a5d6635cc3ded98397dd71bc9eb25f10d4df280\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\86a54435d22fd355f12ddac085c1104918879a42\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\5a526056625d88a1591ef6ce8f11cbe93842969c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\7075ab8c33f64260d3e1dfda2e265af408546ae6\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9e45b32941ea53aacf3bc3aec525e5f3f37a096c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\23ad7faf08fb2f44b039f26762e1ccf211b3b9b3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\6fbd6cb088c5790d8cb71ee42ee99aca9819a294\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\9c9dc6c6c57100a072a16b31dba91e14c707cfdf\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\1586d887408b7515aba4577bc87ae0f449936494\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\02d72a98bf878738679f2d3ff880e1101fe3864c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4dce1ad563595494d965e52f4cdfa788b5a7f223\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c579f1a1147e92d61191b498d8739fc624b67b6d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\c996ef6108df44635cce77385edeb21b10417dcc\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4a5d6635cc3ded98397dd71bc9eb25f10d4df280\output\AndroidManifest.xml:24:9-38
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\X550Z FX\.android\build-cache\4a5d6635cc3ded98397dd71bc9eb25f10d4df280\output\AndroidManifest.xml:23:9-47

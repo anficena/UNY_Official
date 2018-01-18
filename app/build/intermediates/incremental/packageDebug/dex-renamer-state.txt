@@ -1,0 +1,7 @@
+#Thu Jan 18 22:46:10 ICT 2018
+base.0=D\:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d0f9ad7279f2d0afef8d84f4d13ed0767f4ff77
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8dd92b2adc9f1a2a58bf659976ea0404f830d110\\classes.dex
+base.1=D\:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8dd92b2adc9f1a2a58bf659976ea0404f830d110
+file.0=D\:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8d0f9ad7279f2d0afef8d84f4d13ed0767f4ff77\\classes.dex

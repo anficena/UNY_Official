@@ -1,0 +1,20 @@
+<tabs>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_black_24dp"
+        activeColor="@color/colorPrimary"
+        title="Home"
+        title_size="6dp"/>
+    <tab
+        id="@+id/tab_berita"
+        icon="@drawable/ic_assignment_black_24dp"
+        activeColor="@color/colorPrimary"
+        title="Berita"
+        title_size="6dp"/>
+    <tab
+        id="@+id/tab_pengumuman"
+        icon="@drawable/ic_announcement_black_24dp"
+        activeColor="@color/colorPrimary"
+        title="Pengumuman"
+        title_size="6dp"/>
+</tabs>

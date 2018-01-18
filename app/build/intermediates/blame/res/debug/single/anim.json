@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\86a54435d22fd355f12ddac085c1104918879a42\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "D:\\ProjectPI\\UNYOfficial\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\5a526056625d88a1591ef6ce8f11cbe93842969c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\X550Z FX\\.android\\build-cache\\86a54435d22fd355f12ddac085c1104918879a42\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slideup_anim.xml",
+        "source": "D:\\ProjectPI\\UNYOfficial\\app\\src\\main\\res\\anim\\slideup_anim.xml"
+    },
+    {
+        "merged": "D:\\ProjectPI\\UNYOfficial\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "D:\\ProjectPI\\UNYOfficial\\app\\src\\main\\res\\anim\\fade_in.xml"
+    }
+]
